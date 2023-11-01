@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SunuwarPrakash
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to intern for my skill development
+- 💞️ I’m looking for intern to gain experience and develop skills
 - 📫 How to reach me [ sunuwarp528@gmail.com ]
 - [ https://www.instagram.com/praksan_/ ]
 - [ https://www.linkedin.com/in/prakash-sunuwar-020556234/]
